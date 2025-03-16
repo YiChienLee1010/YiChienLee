@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://YiChienLee1010.github.io/yichienlee/sitemap.xml
+Sitemap: https://YiChienLee1010.github.io/YiChienLee/sitemap.xml
